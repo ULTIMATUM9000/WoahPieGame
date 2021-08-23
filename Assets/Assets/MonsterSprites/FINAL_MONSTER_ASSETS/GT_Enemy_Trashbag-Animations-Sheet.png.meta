@@ -1,0 +1,711 @@
+fileFormatVersion: 2
+guid: 1f03824c00a3c6f44bcb89aef31e2c01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8475788317499661080
+    second: GT_Enemy_Trashbag-Animations-Sheet_0
+  - first:
+      213: 5547389068633382108
+    second: GT_Enemy_Trashbag-Animations-Sheet_1
+  - first:
+      213: 1943737239264977479
+    second: GT_Enemy_Trashbag-Animations-Sheet_2
+  - first:
+      213: 4566242647335874061
+    second: GT_Enemy_Trashbag-Animations-Sheet_3
+  - first:
+      213: -9216995775287366336
+    second: GT_Enemy_Trashbag-Animations-Sheet_4
+  - first:
+      213: -1325974191285970862
+    second: GT_Enemy_Trashbag-Animations-Sheet_5
+  - first:
+      213: 4466264123010042667
+    second: GT_Enemy_Trashbag-Animations-Sheet_6
+  - first:
+      213: -6470123503833381295
+    second: GT_Enemy_Trashbag-Animations-Sheet_7
+  - first:
+      213: 7897721719662000979
+    second: GT_Enemy_Trashbag-Animations-Sheet_8
+  - first:
+      213: 6215532467948664214
+    second: GT_Enemy_Trashbag-Animations-Sheet_9
+  - first:
+      213: 1311470287324056425
+    second: GT_Enemy_Trashbag-Animations-Sheet_10
+  - first:
+      213: -8922568363795234848
+    second: GT_Enemy_Trashbag-Animations-Sheet_11
+  - first:
+      213: 4780721268307619788
+    second: GT_Enemy_Trashbag-Animations-Sheet_12
+  - first:
+      213: -8438570214588538929
+    second: GT_Enemy_Trashbag-Animations-Sheet_13
+  - first:
+      213: -9019704159793302050
+    second: GT_Enemy_Trashbag-Animations-Sheet_14
+  - first:
+      213: -898868598201682930
+    second: GT_Enemy_Trashbag-Animations-Sheet_15
+  - first:
+      213: -327410109275876759
+    second: GT_Enemy_Trashbag-Animations-Sheet_16
+  - first:
+      213: -1250363756672568842
+    second: GT_Enemy_Trashbag-Animations-Sheet_17
+  - first:
+      213: -7767548394600893675
+    second: GT_Enemy_Trashbag-Animations-Sheet_18
+  - first:
+      213: 6355185252944034712
+    second: GT_Enemy_Trashbag-Animations-Sheet_19
+  - first:
+      213: 551947039380434882
+    second: GT_Enemy_Trashbag-Animations-Sheet_20
+  - first:
+      213: -527691707580411725
+    second: GT_Enemy_Trashbag-Animations-Sheet_21
+  - first:
+      213: 2200366208142258276
+    second: GT_Enemy_Trashbag-Animations-Sheet_22
+  - first:
+      213: -5260461020467330731
+    second: GT_Enemy_Trashbag-Animations-Sheet_23
+  - first:
+      213: 2887439457722606709
+    second: GT_Enemy_Trashbag-Animations-Sheet_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4e6009e63ff5a80800000000000000
+      internalID: -8475788317499661080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 288
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc17c277f84cfc40800000000000000
+      internalID: 5547389068633382108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 290
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742661388ba89fa10800000000000000
+      internalID: 1943737239264977479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 286
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ea1b8ae7d8e5f30800000000000000
+      internalID: 4566242647335874061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 287
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d68b51d27a61080800000000000000
+      internalID: -9216995775287366336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 248
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25850139f71399de0800000000000000
+      internalID: -1325974191285970862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 244
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.475, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bc51d7e8b5bfd30800000000000000
+      internalID: 4466264123010042667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 247
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1560b1514f08536a0800000000000000
+      internalID: -6470123503833381295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 208
+        width: 41
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b37536f085a9d60800000000000000
+      internalID: 7897721719662000979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 205
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695bcf929d1024650800000000000000
+      internalID: 6215532467948664214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 207
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b0e612747433210800000000000000
+      internalID: 1311470287324056425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 168
+        width: 42
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efb8dfc85bac2480800000000000000
+      internalID: -8922568363795234848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 167
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf61a70aa8885240800000000000000
+      internalID: 4780721268307619788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 167
+        width: 47
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5932033, y: 0.47482458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf124b691d24ea80800000000000000
+      internalID: -8438570214588538929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 127
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed53868ead293d280800000000000000
+      internalID: -9019704159793302050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 127
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e047f68b5c39683f0800000000000000
+      internalID: -898868598201682930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 125
+        width: 56
+        height: 30
+      alignment: 9
+      pivot: {x: 0.6428572, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9625db48d3ec47bf0800000000000000
+      internalID: -327410109275876759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 87
+        width: 41
+        height: 31
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1328bb9c0d5aee0800000000000000
+      internalID: -1250363756672568842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 88
+        width: 39
+        height: 30
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513782ca3ef143490800000000000000
+      internalID: -7767548394600893675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 81
+        width: 55
+        height: 36
+      alignment: 9
+      pivot: {x: 0.64444447, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf691178e8e8a700800000000000000
+      internalID: 551947039380434882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 48
+        width: 40
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b010c210334da8f0800000000000000
+      internalID: -527691707580411725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 44
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6481482, y: 0.5588235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460b7148865498e10800000000000000
+      internalID: 2200366208142258276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 8
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5518140b2961ff6b0800000000000000
+      internalID: -5260461020467330731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Trashbag-Animations-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 7
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574a00473ee321820800000000000000
+      internalID: 2887439457722606709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

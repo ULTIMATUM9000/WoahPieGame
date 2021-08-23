@@ -1,0 +1,1008 @@
+fileFormatVersion: 2
+guid: eeee37f1e18988949b224d492f2c0d50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9022153211875442245
+    second: GT_Player-walk-Sheet_0
+  - first:
+      213: -1648239437096772698
+    second: GT_Player-walk-Sheet_1
+  - first:
+      213: -6145152336533737565
+    second: GT_Player-walk-Sheet_2
+  - first:
+      213: -5949813510368801057
+    second: GT_Player-walk-Sheet_3
+  - first:
+      213: -4329552525514154465
+    second: GT_Player-walk-Sheet_4
+  - first:
+      213: -3137580400952705443
+    second: GT_Player-walk-Sheet_5
+  - first:
+      213: 9155249659977734475
+    second: GT_Player-walk-Sheet_6
+  - first:
+      213: 265999306544050398
+    second: GT_Player-walk-Sheet_7
+  - first:
+      213: -6218559697305818237
+    second: GT_Player-walk-Sheet_8
+  - first:
+      213: 2539981498456507898
+    second: GT_Player-walk-Sheet_9
+  - first:
+      213: 5779331942771716036
+    second: GT_Player-walk-Sheet_10
+  - first:
+      213: -4551279414681813681
+    second: GT_Player-walk-Sheet_11
+  - first:
+      213: -7582682079812743004
+    second: GT_Player-walk-Sheet_12
+  - first:
+      213: -4171161614691972642
+    second: GT_Player-walk-Sheet_13
+  - first:
+      213: 239503885915264048
+    second: GT_Player-walk-Sheet_14
+  - first:
+      213: 3841567105532561986
+    second: GT_Player-walk-Sheet_15
+  - first:
+      213: 6405513479311439828
+    second: GT_Player-walk-Sheet_16
+  - first:
+      213: -5901394226611620016
+    second: GT_Player-walk-Sheet_17
+  - first:
+      213: 5521421497833878339
+    second: GT_Player-walk-Sheet_18
+  - first:
+      213: 6153879449910373366
+    second: GT_Player-walk-Sheet_19
+  - first:
+      213: -293376375424417401
+    second: GT_Player-walk-Sheet_20
+  - first:
+      213: 9041507563205044019
+    second: GT_Player-walk-Sheet_21
+  - first:
+      213: -5350717335249596317
+    second: GT_Player-walk-Sheet_22
+  - first:
+      213: 7168124756005415055
+    second: GT_Player-walk-Sheet_23
+  - first:
+      213: -9093228798218362397
+    second: GT_Player-walk-Sheet_24
+  - first:
+      213: -1294256142538331181
+    second: GT_Player-walk-Sheet_25
+  - first:
+      213: 7283311933051745058
+    second: GT_Player-walk-Sheet_26
+  - first:
+      213: 2341380236550964985
+    second: GT_Player-walk-Sheet_27
+  - first:
+      213: -491351281456213314
+    second: GT_Player-walk-Sheet_28
+  - first:
+      213: -843676783566476860
+    second: GT_Player-walk-Sheet_29
+  - first:
+      213: -852098752953503149
+    second: GT_Player-walk-Sheet_30
+  - first:
+      213: 5497516608390859816
+    second: GT_Player-walk-Sheet_31
+  - first:
+      213: -2749807659403319054
+    second: GT_Player-walk-Sheet_32
+  - first:
+      213: 5517524613699848266
+    second: GT_Player-walk-Sheet_33
+  - first:
+      213: -3617941859331083865
+    second: GT_Player-walk-Sheet_34
+  - first:
+      213: -1908625000863888554
+    second: GT_Player-walk-Sheet_35
+  - first:
+      213: -783679100772866237
+    second: GT_Player-walk-Sheet_36
+  - first:
+      213: -7169383714541300150
+    second: GT_Player-walk-Sheet_37
+  - first:
+      213: -5906660900723262862
+    second: GT_Player-walk-Sheet_38
+  - first:
+      213: -221055511729586432
+    second: GT_Player-walk-Sheet_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 431
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e3cf67b80253d70800000000000000
+      internalID: 9022153211875442245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 430
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab9e07f6f64029e0800000000000000
+      internalID: -1648239437096772698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 430
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdec5a2c2240e6da0800000000000000
+      internalID: -5949813510368801057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 430
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e5550cae65ae3c0800000000000000
+      internalID: -4329552525514154465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e7cfabf331574d0800000000000000
+      internalID: -3137580400952705443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 399
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b491df42f0bfd0f70800000000000000
+      internalID: 9155249659977734475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 399
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0fe01c5f401b300800000000000000
+      internalID: 265999306544050398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 399
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ba68317ec33b9a0800000000000000
+      internalID: -6218559697305818237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 372
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5809727b3df3320800000000000000
+      internalID: 2539981498456507898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 372
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfe9ff18cf443050800000000000000
+      internalID: 5779331942771716036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 371
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4db75e6c7b96d0c0800000000000000
+      internalID: -4551279414681813681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 371
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a09a0cb2d6e4c690800000000000000
+      internalID: -7582682079812743004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 316
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed94a877c9e0d16c0800000000000000
+      internalID: -4171161614691972642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 315
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0341e4ae383e25300800000000000000
+      internalID: 239503885915264048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 314
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a0812ddecff4530800000000000000
+      internalID: 3841567105532561986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 314
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7b5525294f4e850800000000000000
+      internalID: 6405513479311439828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057f543c7390a1ea0800000000000000
+      internalID: -5901394226611620016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 259
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbeb7a41c8f66550800000000000000
+      internalID: 6153879449910373366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 259
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781065dadb7bdebf0800000000000000
+      internalID: -293376375424417401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 259
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33728da8933e97d70800000000000000
+      internalID: 9041507563205044019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 203
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3605ce2deee6eb5b0800000000000000
+      internalID: -5350717335249596317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 202
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1a7d4069c5ec180800000000000000
+      internalID: -9093228798218362397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 202
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dba2a745e0e90ee0800000000000000
+      internalID: -1294256142538331181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 202
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223b9ed4d95831560800000000000000
+      internalID: 7283311933051745058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f68db38be04e7020800000000000000
+      internalID: 2341380236550964985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 144
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb29ed0ec9e5e29f0800000000000000
+      internalID: -491351281456213314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 143
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9a6427f68aa44f0800000000000000
+      internalID: -843676783566476860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 143
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35237a4e2bcbc24f0800000000000000
+      internalID: -852098752953503149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 88
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c82fd6a3a1b4c40800000000000000
+      internalID: 5497516608390859816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 87
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8ed9cb088b6d9d0800000000000000
+      internalID: -2749807659403319054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 86
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48cd0f276f229c40800000000000000
+      internalID: 5517524613699848266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 86
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1fd803c0d7acdc0800000000000000
+      internalID: -3617941859331083865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b041e8ca33385e0800000000000000
+      internalID: -1908625000863888554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 31
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347298c8200df15f0800000000000000
+      internalID: -783679100772866237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 31
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a73b3a433570ea0800000000000000
+      internalID: -5906660900723262862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-walk-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 31
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f37bbee27aeecf0800000000000000
+      internalID: -221055511729586432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,900 @@
+fileFormatVersion: 2
+guid: 3c04ca0c603dd324ba48933876143b17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3825359962745647979
+    second: GT_Enemy-Computer-Animations-Sheet_0
+  - first:
+      213: -6449773908299205170
+    second: GT_Enemy-Computer-Animations-Sheet_1
+  - first:
+      213: -8710799259058581388
+    second: GT_Enemy-Computer-Animations-Sheet_2
+  - first:
+      213: -1975738540536766498
+    second: GT_Enemy-Computer-Animations-Sheet_3
+  - first:
+      213: -7220379428354890772
+    second: GT_Enemy-Computer-Animations-Sheet_4
+  - first:
+      213: 8149428570947594758
+    second: GT_Enemy-Computer-Animations-Sheet_5
+  - first:
+      213: -9008950238627046553
+    second: GT_Enemy-Computer-Animations-Sheet_6
+  - first:
+      213: -6733399871541747528
+    second: GT_Enemy-Computer-Animations-Sheet_7
+  - first:
+      213: 5425360109180205178
+    second: GT_Enemy-Computer-Animations-Sheet_8
+  - first:
+      213: -6204124056556917177
+    second: GT_Enemy-Computer-Animations-Sheet_9
+  - first:
+      213: -6605096054842742576
+    second: GT_Enemy-Computer-Animations-Sheet_10
+  - first:
+      213: -7721928403166352020
+    second: GT_Enemy-Computer-Animations-Sheet_11
+  - first:
+      213: -7665028127279178917
+    second: GT_Enemy-Computer-Animations-Sheet_12
+  - first:
+      213: -896538348002507958
+    second: GT_Enemy-Computer-Animations-Sheet_13
+  - first:
+      213: 4579988851583498901
+    second: GT_Enemy-Computer-Animations-Sheet_14
+  - first:
+      213: 4207305036842747729
+    second: GT_Enemy-Computer-Animations-Sheet_15
+  - first:
+      213: 7450806230395736018
+    second: GT_Enemy-Computer-Animations-Sheet_16
+  - first:
+      213: 816387807160353769
+    second: GT_Enemy-Computer-Animations-Sheet_17
+  - first:
+      213: 1068363305001955753
+    second: GT_Enemy-Computer-Animations-Sheet_18
+  - first:
+      213: 1047634870749407915
+    second: GT_Enemy-Computer-Animations-Sheet_19
+  - first:
+      213: 6417785630999595959
+    second: GT_Enemy-Computer-Animations-Sheet_20
+  - first:
+      213: 3137032102377763827
+    second: GT_Enemy-Computer-Animations-Sheet_21
+  - first:
+      213: -435677034890997523
+    second: GT_Enemy-Computer-Animations-Sheet_22
+  - first:
+      213: 3383441099278378245
+    second: GT_Enemy-Computer-Animations-Sheet_23
+  - first:
+      213: 84749623183204608
+    second: GT_Enemy-Computer-Animations-Sheet_24
+  - first:
+      213: -1998130156754068811
+    second: GT_Enemy-Computer-Animations-Sheet_25
+  - first:
+      213: 610977031359796180
+    second: GT_Enemy-Computer-Animations-Sheet_26
+  - first:
+      213: -2785423546068256934
+    second: GT_Enemy-Computer-Animations-Sheet_27
+  - first:
+      213: -8058060389587586541
+    second: GT_Enemy-Computer-Animations-Sheet_28
+  - first:
+      213: -8988314843764274357
+    second: GT_Enemy-Computer-Animations-Sheet_29
+  - first:
+      213: -8750620766971925098
+    second: GT_Enemy-Computer-Animations-Sheet_30
+  - first:
+      213: 6747810170357987272
+    second: GT_Enemy-Computer-Animations-Sheet_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 49
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63b4755e98661530800000000000000
+      internalID: 3825359962745647979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 388
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec53e328dcccd76a0800000000000000
+      internalID: -6449773908299205170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 387
+        width: 42
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4848485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470d316c9360d1780800000000000000
+      internalID: -8710799259058581388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 387
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfd14ae344c494e0800000000000000
+      internalID: -1975738540536766498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 387
+        width: 52
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce36e554a2f0ccb90800000000000000
+      internalID: -7220379428354890772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 345
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.4848485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a20c59b16981170800000000000000
+      internalID: 8149428570947594758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 345
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bd67b4d77c9f280800000000000000
+      internalID: -9008950238627046553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 341
+        width: 47
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4468085, y: 0.5675676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0e71eed782e82a0800000000000000
+      internalID: -6733399871541747528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 303
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.4848485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78b2464640ca4b40800000000000000
+      internalID: 5425360109180205178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 303
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e287a9a0686e9a0800000000000000
+      internalID: -6204124056556917177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 296
+        width: 41
+        height: 39
+      alignment: 9
+      pivot: {x: 0.3414634, y: 0.61538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8a3c7222cf554a0800000000000000
+      internalID: -6605096054842742576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 261
+        width: 41
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.46875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d2544a70336d490800000000000000
+      internalID: -7721928403166352020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 261
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b9520878950a590800000000000000
+      internalID: -7665028127279178917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 254
+        width: 65
+        height: 39
+      alignment: 9
+      pivot: {x: 0.33846155, y: 0.61538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a438bcf5f1bde83f0800000000000000
+      internalID: -896538348002507958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 219
+        width: 41
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.46875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a32ed38936f8f30800000000000000
+      internalID: 4579988851583498901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 220
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15749b6c3a9536a30800000000000000
+      internalID: 4207305036842747729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 212
+        width: 65
+        height: 39
+      alignment: 9
+      pivot: {x: 0.32307693, y: 0.61538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df410d5ac4966760800000000000000
+      internalID: 7450806230395736018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 177
+        width: 41
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.46875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3c0cc9264645b00800000000000000
+      internalID: 816387807160353769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 178
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a134b5f3c693de00800000000000000
+      internalID: 1068363305001955753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 170
+        width: 64
+        height: 38
+      alignment: 9
+      pivot: {x: 0.296875, y: 0.6315789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaa4554d52f98e00800000000000000
+      internalID: 1047634870749407915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 135
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.4848485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb465c470e801950800000000000000
+      internalID: 6417785630999595959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 136
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3393f831af88b20800000000000000
+      internalID: 3137032102377763827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 126
+        width: 76
+        height: 42
+      alignment: 9
+      pivot: {x: 0.39473686, y: 0.61904764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0d68a8b0a24f9f0800000000000000
+      internalID: -435677034890997523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 93
+        width: 42
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4848485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505e1f8e0c564fe20800000000000000
+      internalID: 3383441099278378245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 94
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001eea055571d2100800000000000000
+      internalID: 84749623183204608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 84
+        width: 75
+        height: 40
+      alignment: 9
+      pivot: {x: 0.3866667, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba9daf75373544e0800000000000000
+      internalID: -1998130156754068811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 43
+        width: 60
+        height: 41
+      alignment: 9
+      pivot: {x: 0.23333335, y: 0.63414633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d39f187f50aa7800800000000000000
+      internalID: 610977031359796180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 51
+        width: 43
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.4848485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57b79bea003859d0800000000000000
+      internalID: -2785423546068256934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 52
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3127cf3e4c40c2090800000000000000
+      internalID: -8058060389587586541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 9
+        width: 43
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.4848485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b4f009547134380800000000000000
+      internalID: -8988314843764274357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 10
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d6b7476cc8f8680800000000000000
+      internalID: -8750620766971925098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Computer-Animations-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1
+        width: 59
+        height: 40
+      alignment: 9
+      pivot: {x: 0.22033899, y: 0.65000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7b4f7399905ad50800000000000000
+      internalID: 6747810170357987272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

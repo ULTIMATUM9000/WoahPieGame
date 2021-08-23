@@ -1,0 +1,2457 @@
+fileFormatVersion: 2
+guid: 22089d66ca29e2e47b324e92f032f698
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -309068853528804256
+    second: GT_Player-attack1-Sheet_0
+  - first:
+      213: -7152107881639428370
+    second: GT_Player-attack1-Sheet_1
+  - first:
+      213: -1963420589764982644
+    second: GT_Player-attack1-Sheet_2
+  - first:
+      213: 826053143312169695
+    second: GT_Player-attack1-Sheet_3
+  - first:
+      213: 326833308426184819
+    second: GT_Player-attack1-Sheet_4
+  - first:
+      213: 3185988394495933658
+    second: GT_Player-attack1-Sheet_5
+  - first:
+      213: -7345619089813695598
+    second: GT_Player-attack1-Sheet_6
+  - first:
+      213: 1284070609801768101
+    second: GT_Player-attack1-Sheet_7
+  - first:
+      213: -5788400946105810816
+    second: GT_Player-attack1-Sheet_8
+  - first:
+      213: 6333149283192203694
+    second: GT_Player-attack1-Sheet_9
+  - first:
+      213: 8039055054426921482
+    second: GT_Player-attack1-Sheet_10
+  - first:
+      213: -4157985752892062822
+    second: GT_Player-attack1-Sheet_11
+  - first:
+      213: 5321668043209184977
+    second: GT_Player-attack1-Sheet_12
+  - first:
+      213: 4511480963924785173
+    second: GT_Player-attack1-Sheet_13
+  - first:
+      213: -3420333439337376065
+    second: GT_Player-attack1-Sheet_14
+  - first:
+      213: -1702680903829958788
+    second: GT_Player-attack1-Sheet_15
+  - first:
+      213: -1677936698871551997
+    second: GT_Player-attack1-Sheet_16
+  - first:
+      213: 346295130741638679
+    second: GT_Player-attack1-Sheet_17
+  - first:
+      213: 5891227502302157079
+    second: GT_Player-attack1-Sheet_18
+  - first:
+      213: 8821559212835113162
+    second: GT_Player-attack1-Sheet_19
+  - first:
+      213: -5866626429516835013
+    second: GT_Player-attack1-Sheet_20
+  - first:
+      213: -5857602169591585542
+    second: GT_Player-attack1-Sheet_21
+  - first:
+      213: 3643821778617837163
+    second: GT_Player-attack1-Sheet_22
+  - first:
+      213: 6636869757821924212
+    second: GT_Player-attack1-Sheet_23
+  - first:
+      213: -3593329755852958550
+    second: GT_Player-attack1-Sheet_24
+  - first:
+      213: -3731439511468959908
+    second: GT_Player-attack1-Sheet_25
+  - first:
+      213: 4581589895721337421
+    second: GT_Player-attack1-Sheet_26
+  - first:
+      213: -4712137028946398768
+    second: GT_Player-attack1-Sheet_27
+  - first:
+      213: -1461735484712407501
+    second: GT_Player-attack1-Sheet_28
+  - first:
+      213: 6400959188477042331
+    second: GT_Player-attack1-Sheet_29
+  - first:
+      213: -7351569964832568443
+    second: GT_Player-attack1-Sheet_30
+  - first:
+      213: -7414808611326607269
+    second: GT_Player-attack1-Sheet_31
+  - first:
+      213: -3538259422811260173
+    second: GT_Player-attack1-Sheet_32
+  - first:
+      213: 1627549212780234173
+    second: GT_Player-attack1-Sheet_33
+  - first:
+      213: -288530865999259441
+    second: GT_Player-attack1-Sheet_34
+  - first:
+      213: -8323178830961431572
+    second: GT_Player-attack1-Sheet_35
+  - first:
+      213: -1860069741135377101
+    second: GT_Player-attack1-Sheet_36
+  - first:
+      213: -4189520607969376285
+    second: GT_Player-attack1-Sheet_37
+  - first:
+      213: 7360778227153444036
+    second: GT_Player-attack1-Sheet_38
+  - first:
+      213: 2770364726811321487
+    second: GT_Player-attack1-Sheet_39
+  - first:
+      213: 6998998161082459011
+    second: GT_Player-attack1-Sheet_40
+  - first:
+      213: 533080607238998558
+    second: GT_Player-attack1-Sheet_41
+  - first:
+      213: 2958814826216321347
+    second: GT_Player-attack1-Sheet_42
+  - first:
+      213: -104779990094369059
+    second: GT_Player-attack1-Sheet_43
+  - first:
+      213: -2253833506904864228
+    second: GT_Player-attack1-Sheet_44
+  - first:
+      213: -7639002418109912939
+    second: GT_Player-attack1-Sheet_45
+  - first:
+      213: 2152794692900399447
+    second: GT_Player-attack1-Sheet_46
+  - first:
+      213: 2975960763392207748
+    second: GT_Player-attack1-Sheet_47
+  - first:
+      213: 8408763361400818014
+    second: GT_Player-attack1-Sheet_48
+  - first:
+      213: 7874776856970757386
+    second: GT_Player-attack1-Sheet_49
+  - first:
+      213: 4971135288362482381
+    second: GT_Player-attack1-Sheet_50
+  - first:
+      213: -5783552669794493055
+    second: GT_Player-attack1-Sheet_51
+  - first:
+      213: -2610107816668607949
+    second: GT_Player-attack1-Sheet_52
+  - first:
+      213: -3414594521711844596
+    second: GT_Player-attack1-Sheet_53
+  - first:
+      213: -323391924694120028
+    second: GT_Player-attack1-Sheet_54
+  - first:
+      213: -399357214899766351
+    second: GT_Player-attack1-Sheet_55
+  - first:
+      213: 730305367879661889
+    second: GT_Player-attack1-Sheet_56
+  - first:
+      213: 6525179112502467040
+    second: GT_Player-attack1-Sheet_57
+  - first:
+      213: -5137222495902078373
+    second: GT_Player-attack1-Sheet_60
+  - first:
+      213: -8561540976739914257
+    second: GT_Player-attack1-Sheet_61
+  - first:
+      213: -1045790857049307516
+    second: GT_Player-attack1-Sheet_62
+  - first:
+      213: -149729235617770185
+    second: GT_Player-attack1-Sheet_64
+  - first:
+      213: -6693250979334909235
+    second: GT_Player-attack1-Sheet_65
+  - first:
+      213: -2043378242363357719
+    second: GT_Player-attack1-Sheet_66
+  - first:
+      213: 2220691497960253014
+    second: GT_Player-attack1-Sheet_67
+  - first:
+      213: -5675360734189625157
+    second: GT_Player-attack1-Sheet_68
+  - first:
+      213: 9056567870812358492
+    second: GT_Player-attack1-Sheet_70
+  - first:
+      213: -7750126351401630847
+    second: GT_Player-attack1-Sheet_71
+  - first:
+      213: -3137205639821903855
+    second: GT_Player-attack1-Sheet_72
+  - first:
+      213: 5635112394352883607
+    second: GT_Player-attack1-Sheet_73
+  - first:
+      213: 8887898738821823674
+    second: GT_Player-attack1-Sheet_74
+  - first:
+      213: 4117746325464583357
+    second: GT_Player-attack1-Sheet_75
+  - first:
+      213: 8730670157450346710
+    second: GT_Player-attack1-Sheet_76
+  - first:
+      213: -8486593363601844770
+    second: GT_Player-attack1-Sheet_77
+  - first:
+      213: -8867013814906855239
+    second: GT_Player-attack1-Sheet_78
+  - first:
+      213: -8115978232778032826
+    second: GT_Player-attack1-Sheet_79
+  - first:
+      213: -4496682654827056642
+    second: GT_Player-attack1-Sheet_80
+  - first:
+      213: -7472371432598169225
+    second: GT_Player-attack1-Sheet_81
+  - first:
+      213: 1828555215496922858
+    second: GT_Player-attack1-Sheet_82
+  - first:
+      213: -3634190262634055773
+    second: GT_Player-attack1-Sheet_83
+  - first:
+      213: -6836041883906218523
+    second: GT_Player-attack1-Sheet_84
+  - first:
+      213: -9089724998639376278
+    second: GT_Player-attack1-Sheet_85
+  - first:
+      213: 6339635602278210485
+    second: GT_Player-attack1-Sheet_86
+  - first:
+      213: 3950559851984857607
+    second: GT_Player-attack1-Sheet_87
+  - first:
+      213: 5877603412323269933
+    second: GT_Player-attack1-Sheet_90
+  - first:
+      213: 6265608693901288905
+    second: GT_Player-attack1-Sheet_91
+  - first:
+      213: 7990731225096515847
+    second: GT_Player-attack1-Sheet_92
+  - first:
+      213: 723173845834839135
+    second: GT_Player-attack1-Sheet_93
+  - first:
+      213: 7496296569329863644
+    second: GT_Player-attack1-Sheet_96
+  - first:
+      213: -8347052610165396236
+    second: GT_Player-attack1-Sheet_97
+  - first:
+      213: 1772496536939122821
+    second: GT_Player-attack1-Sheet_98
+  - first:
+      213: 6775917120323669206
+    second: GT_Player-attack1-Sheet_100
+  - first:
+      213: -8096246930623600530
+    second: GT_Player-attack1-Sheet_103
+  - first:
+      213: -828514629918237321
+    second: GT_Player-attack1-Sheet_105
+  - first:
+      213: 1266197301257696530
+    second: GT_Player-attack1-Sheet_106
+  - first:
+      213: -8400307039588065374
+    second: GT_Player-attack1-Sheet_107
+  - first:
+      213: 5224236229811614839
+    second: GT_Player-attack1-Sheet_108
+  - first:
+      213: -5467817059821936800
+    second: GT_Player-attack1-Sheet_109
+  - first:
+      213: -4779305804425907236
+    second: GT_Player-attack1-Sheet_111
+  - first:
+      213: 9014218358799856608
+    second: GT_Player-attack1-Sheet_112
+  - first:
+      213: -7891794778769583927
+    second: GT_Player-attack1-Sheet_113
+  - first:
+      213: 912997927582652843
+    second: GT_Player-attack1-Sheet_114
+  - first:
+      213: 6227209184085455589
+    second: GT_Player-attack1-Sheet_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2619
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0644746e387f5bbf0800000000000000
+      internalID: -309068853528804256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2618
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee3c9f66cb9ebc90800000000000000
+      internalID: -7152107881639428370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2618
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88ce52506780c4e0800000000000000
+      internalID: -1963420589764982644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2618
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda77bc05fab67b00800000000000000
+      internalID: 826053143312169695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2505
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.67857146, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37822819925298400800000000000000
+      internalID: 326833308426184819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2503
+        width: 29
+        height: 27
+      alignment: 9
+      pivot: {x: 0.32263342, y: 0.5408257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc72709097e63c20800000000000000
+      internalID: 3185988394495933658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2504
+        width: 29
+        height: 26
+      alignment: 9
+      pivot: {x: 0.7147743, y: 0.5088736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29393584b5e1f0a90800000000000000
+      internalID: -7345619089813695598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2506
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.29613128, y: 0.47291017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ace0c39a6fe1d110800000000000000
+      internalID: 1284070609801768101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2395
+        width: 28
+        height: 25
+      alignment: 9
+      pivot: {x: 0.67857146, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08004ddf1087bafa0800000000000000
+      internalID: -5788400946105810816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2391
+        width: 31
+        height: 27
+      alignment: 9
+      pivot: {x: 0.3044473, y: 0.53402597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9e036f7bdd3e750800000000000000
+      internalID: 6333149283192203694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2392
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.7076131, y: 0.50888294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0adce0baf5709f60800000000000000
+      internalID: 8039055054426921482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2392
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.28470978, y: 0.51454896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93cbb9dcfddb46c0800000000000000
+      internalID: -4157985752892062822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2261
+        width: 22
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5909091, y: 0.6888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d61800d3ec5ad940800000000000000
+      internalID: 5321668043209184977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2282
+        width: 45
+        height: 24
+      alignment: 9
+      pivot: {x: 0.6175686, y: 0.50479126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5187ca9a8000c9e30800000000000000
+      internalID: 4511480963924785173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2282
+        width: 45
+        height: 24
+      alignment: 9
+      pivot: {x: 0.39747518, y: 0.5000102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6d7eecbd88880d0800000000000000
+      internalID: -3420333439337376065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2281
+        width: 22
+        height: 45
+      alignment: 9
+      pivot: {x: 0.45782888, y: 0.33008897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fcf593dbcde58e0800000000000000
+      internalID: -1702680903829958788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2150
+        width: 22
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5909091, y: 0.6976744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3086b246675c6b8e0800000000000000
+      internalID: -1677936698871551997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2170
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: 0.73322827, y: 0.4684143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7168d4f26994ec400800000000000000
+      internalID: 346295130741638679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2170
+        width: 40
+        height: 24
+      alignment: 9
+      pivot: {x: 0.30968857, y: 0.47117105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7195bb54338d1c150800000000000000
+      internalID: 5891227502302157079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2171
+        width: 22
+        height: 43
+      alignment: 9
+      pivot: {x: 0.44898987, y: 0.30016807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac88c1e8d597c6a70800000000000000
+      internalID: 8821559212835113162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2038
+        width: 22
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5909091, y: 0.6976744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b371bb6585e859ea0800000000000000
+      internalID: -5866626429516835013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2058
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: 0.73322827, y: 0.48947144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4afe59cdd95bea0800000000000000
+      internalID: -5857602169591585542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2058
+        width: 40
+        height: 24
+      alignment: 9
+      pivot: {x: 0.30968857, y: 0.49039713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6629531a94719230800000000000000
+      internalID: 3643821778617837163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2059
+        width: 22
+        height: 43
+      alignment: 9
+      pivot: {x: 0.42735985, y: 0.30583438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473328f81e5ea1c50800000000000000
+      internalID: 6636869757821924212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1926
+        width: 22
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5909091, y: 0.7045455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa41b8510ade12ec0800000000000000
+      internalID: -3593329755852958550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1946
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: 0.7591426, y: 0.47894797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57190ac883473cc0800000000000000
+      internalID: -3731439511468959908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1946
+        width: 40
+        height: 24
+      alignment: 9
+      pivot: {x: 0.28662032, y: 0.50000507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d424df06cb3159f30800000000000000
+      internalID: 4581589895721337421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1947
+        width: 22
+        height: 43
+      alignment: 9
+      pivot: {x: 0.43817556, y: 0.30030432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d17fa096502b9eb0800000000000000
+      internalID: -4712137028946398768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1835
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e222e325fd6bbe0800000000000000
+      internalID: -1461735484712407501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1834
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e52fad776c4d850800000000000000
+      internalID: 6400959188477042331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1834
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b49b8311af9f990800000000000000
+      internalID: -7351569964832568443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1834
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50ce547ade491990800000000000000
+      internalID: -7414808611326607269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1723
+        width: 36
+        height: 27
+      alignment: 9
+      pivot: {x: 0.75088847, y: 0.45816606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faf72c2dc395eec0800000000000000
+      internalID: -3538259422811260173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1714
+        width: 34
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2867508, y: 0.5971031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db58b3ac267369610800000000000000
+      internalID: 1627549212780234173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1713
+        width: 35
+        height: 33
+      alignment: 9
+      pivot: {x: 0.7624943, y: 0.6077659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8d061c4beeefbf0800000000000000
+      internalID: -288530865999259441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1710
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.2186601, y: 0.64894885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb2e7a83f02e7c80800000000000000
+      internalID: -8323178830961431572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1611
+        width: 37
+        height: 25
+      alignment: 9
+      pivot: {x: 0.7589456, y: 0.48964354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d4c2eec64bf26e0800000000000000
+      internalID: -1860069741135377101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1601
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.28151464, y: 0.6020101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e78ece3435dbd5c0800000000000000
+      internalID: -4189520607969376285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1600
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.74247974, y: 0.63074446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc19eb6cccb62660800000000000000
+      internalID: 7360778227153444036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1600
+        width: 38
+        height: 35
+      alignment: 9
+      pivot: {x: 0.20994969, y: 0.6312151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383aee6cebf612160800000000000000
+      internalID: 6998998161082459011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1499
+        width: 38
+        height: 25
+      alignment: 9
+      pivot: {x: 0.76575994, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a4127ecf1e56700800000000000000
+      internalID: 533080607238998558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1484
+        width: 31
+        height: 38
+      alignment: 9
+      pivot: {x: 0.29117313, y: 0.65673184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34178c07862df0920800000000000000
+      internalID: 2958814826216321347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1483
+        width: 31
+        height: 39
+      alignment: 9
+      pivot: {x: 0.7294425, y: 0.6747734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde2bd6772fbb8ef0800000000000000
+      internalID: -104779990094369059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1493
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.20149001, y: 0.56123453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598653e16cfccf590800000000000000
+      internalID: -7639002418109912939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1361
+        width: 40
+        height: 49
+      alignment: 9
+      pivot: {x: 0.804261, y: 0.7378079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759aca00e5340ed10800000000000000
+      internalID: 2152794692900399447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1365
+        width: 56
+        height: 46
+      alignment: 9
+      pivot: {x: 0.6156007, y: 0.7139123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e598d94c9bde1b470800000000000000
+      internalID: 8408763361400818014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1365
+        width: 56
+        height: 46
+      alignment: 9
+      pivot: {x: 0.40362248, y: 0.71498173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca3141e4350df440800000000000000
+      internalID: 4971135288362482381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1384
+        width: 42
+        height: 54
+      alignment: 9
+      pivot: {x: 0.18787348, y: 0.28209093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a4ff905c807cbd0800000000000000
+      internalID: -2610107816668607949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1249
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.46763182, y: 0.74858886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03ee51bf5cec90d0800000000000000
+      internalID: -3414594521711844596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1266
+        width: 60
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6208412, y: 0.39251363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbf86b9ab2357af0800000000000000
+      internalID: -399357214899766351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1266
+        width: 60
+        height: 53
+      alignment: 9
+      pivot: {x: 0.39627177, y: 0.38816285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149370edcd0922a00800000000000000
+      internalID: 730305367879661889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1269
+        width: 61
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5853251, y: 0.32504925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e91288b4d71e8a50800000000000000
+      internalID: 6525179112502467040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1162
+        width: 33
+        height: 46
+      alignment: 9
+      pivot: {x: 0.2881354, y: 0.2804592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a6c9fab5be4b8b0800000000000000
+      internalID: -5137222495902078373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1162
+        width: 33
+        height: 46
+      alignment: 9
+      pivot: {x: 0.7424802, y: 0.28094482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed6777b7db4f2980800000000000000
+      internalID: -8561540976739914257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1155
+        width: 44
+        height: 39
+      alignment: 9
+      pivot: {x: 0.81312424, y: 0.5235533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4868930a1ca9c71f0800000000000000
+      internalID: -1045790857049307516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1049
+        width: 43
+        height: 27
+      alignment: 9
+      pivot: {x: 0.20930232, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2153852bbcc13a0800000000000000
+      internalID: -6693250979334909235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1050
+        width: 33
+        height: 42
+      alignment: 9
+      pivot: {x: 0.29598236, y: 0.3027082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e58b2a905674a3e0800000000000000
+      internalID: -2043378242363357719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1050
+        width: 33
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7642485, y: 0.30903843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656a6a3d62b71de10800000000000000
+      internalID: 2220691497960253014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1043
+        width: 43
+        height: 32
+      alignment: 9
+      pivot: {x: 0.8061658, y: 0.6339493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb06d6a4b711d31b0800000000000000
+      internalID: -5675360734189625157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 939
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c578cf7ae746fad70800000000000000
+      internalID: 9056567870812358492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 938
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183cf443525027490800000000000000
+      internalID: -7750126351401630847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 938
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118301b97186674d0800000000000000
+      internalID: -3137205639821903855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 938
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797fdc6ddd0f33e40800000000000000
+      internalID: 5635112394352883607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 827
+        width: 21
+        height: 49
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.28571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcfd1710d8285b70800000000000000
+      internalID: 8887898738821823674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 826
+        width: 26
+        height: 51
+      alignment: 9
+      pivot: {x: 0.34615386, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc8c7c577c252930800000000000000
+      internalID: 4117746325464583357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 826
+        width: 28
+        height: 50
+      alignment: 9
+      pivot: {x: 0.67857146, y: 0.29999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d08ee94042992970800000000000000
+      internalID: 8730670157450346710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 814
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.65789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed51359bc40993a80800000000000000
+      internalID: -8486593363601844770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 715
+        width: 21
+        height: 49
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.28571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0eeff2ae902f480800000000000000
+      internalID: -8867013814906855239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 714
+        width: 26
+        height: 51
+      alignment: 9
+      pivot: {x: 0.34615386, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649767e2cc04e5f80800000000000000
+      internalID: -8115978232778032826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 714
+        width: 28
+        height: 50
+      alignment: 9
+      pivot: {x: 0.6428572, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef17f5b23f29891c0800000000000000
+      internalID: -4496682654827056642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 702
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.65789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779953ab5cdcc4890800000000000000
+      internalID: -7472371432598169225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 603
+        width: 20
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25490198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6c1e7c745506910800000000000000
+      internalID: 1828555215496922858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 602
+        width: 30
+        height: 51
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7738df533c09dc0800000000000000
+      internalID: -3634190262634055773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 602
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.65625, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5e31020208121a0800000000000000
+      internalID: -6836041883906218523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 589
+        width: 18
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68ac1ee54fcad180800000000000000
+      internalID: -9089724998639376278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 449
+        width: 40
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.626506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb563fcdf8eaf750800000000000000
+      internalID: 6339635602278210485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 477
+        width: 61
+        height: 61
+      alignment: 9
+      pivot: {x: 0.83606553, y: 0.40983605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a2a71214533d630800000000000000
+      internalID: 3950559851984857607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 477
+        width: 62
+        height: 61
+      alignment: 9
+      pivot: {x: 0.17741935, y: 0.40983605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2df622a921719150800000000000000
+      internalID: 5877603412323269933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 485
+        width: 40
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25675675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5e59519e9e3f650800000000000000
+      internalID: 6265608693901288905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 336
+        width: 42
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701ff7766b7c4ee60800000000000000
+      internalID: 7990731225096515847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 364
+        width: 62
+        height: 51
+      alignment: 9
+      pivot: {x: 0.85483867, y: 0.50980395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54b6dff7ca390a00800000000000000
+      internalID: 723173845834839135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 364
+        width: 63
+        height: 51
+      alignment: 9
+      pivot: {x: 0.17460318, y: 0.50980395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbc2e14302380860800000000000000
+      internalID: 7496296569329863644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 379
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1884058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc289920ef492c80800000000000000
+      internalID: -8347052610165396236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 267
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.1884058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580ddd1953c299810800000000000000
+      internalID: 1772496536939122821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 252
+        width: 62
+        height: 38
+      alignment: 9
+      pivot: {x: 0.83870965, y: 0.68421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc416878b4e80e50800000000000000
+      internalID: 6775917120323669206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 252
+        width: 63
+        height: 38
+      alignment: 9
+      pivot: {x: 0.17460318, y: 0.68421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e686556ff4a54af80800000000000000
+      internalID: -8096246930623600530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 224
+        width: 42
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d528075568084f0800000000000000
+      internalID: -828514629918237321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 155
+        width: 18
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215f505acbf629110800000000000000
+      internalID: 1266197301257696530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 131
+        width: 18
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7446808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afd325114d1c6b80800000000000000
+      internalID: -8400307039588065374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 151
+        width: 39
+        height: 27
+      alignment: 9
+      pivot: {x: 0.7948718, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774b5acfb27308840800000000000000
+      internalID: 5224236229811614839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 151
+        width: 40
+        height: 27
+      alignment: 9
+      pivot: {x: 0.22500001, y: 0.5925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f1e749a596e14b0800000000000000
+      internalID: -5467817059821936800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 43
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd33b3651be7cadb0800000000000000
+      internalID: -4779305804425907236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 42
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3f11486dfe81d70800000000000000
+      internalID: 9014218358799856608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 42
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c018231676ba7290800000000000000
+      internalID: -7891794778769583927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 42
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba95b3227ce9bac00800000000000000
+      internalID: 912997927582652843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Player-attack1-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1153
+        width: 43
+        height: 35
+      alignment: 9
+      pivot: {x: 0.20930232, y: 0.62857145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2b67f72cd7b6650800000000000000
+      internalID: 6227209184085455589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

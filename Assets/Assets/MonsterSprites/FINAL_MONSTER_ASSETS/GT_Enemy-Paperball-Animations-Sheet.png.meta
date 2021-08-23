@@ -1,0 +1,852 @@
+fileFormatVersion: 2
+guid: 985f74bf8d62a594290b03e6078e6648
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4297422741944783247
+    second: GT_Enemy-Paperball-Animations-Sheet_0
+  - first:
+      213: -798306405939828566
+    second: GT_Enemy-Paperball-Animations-Sheet_1
+  - first:
+      213: -6965177152357736130
+    second: GT_Enemy-Paperball-Animations-Sheet_2
+  - first:
+      213: 3877647179362366733
+    second: GT_Enemy-Paperball-Animations-Sheet_3
+  - first:
+      213: -538601020993420730
+    second: GT_Enemy-Paperball-Animations-Sheet_4
+  - first:
+      213: 3855625867787731914
+    second: GT_Enemy-Paperball-Animations-Sheet_5
+  - first:
+      213: 3210109579923319834
+    second: GT_Enemy-Paperball-Animations-Sheet_6
+  - first:
+      213: -7408641488489682305
+    second: GT_Enemy-Paperball-Animations-Sheet_7
+  - first:
+      213: 8135618703261197959
+    second: GT_Enemy-Paperball-Animations-Sheet_8
+  - first:
+      213: 7008881944817578317
+    second: GT_Enemy-Paperball-Animations-Sheet_9
+  - first:
+      213: -815084837451607235
+    second: GT_Enemy-Paperball-Animations-Sheet_10
+  - first:
+      213: -2009088056032026714
+    second: GT_Enemy-Paperball-Animations-Sheet_11
+  - first:
+      213: -8811787229923334306
+    second: GT_Enemy-Paperball-Animations-Sheet_12
+  - first:
+      213: -4263006481248576112
+    second: GT_Enemy-Paperball-Animations-Sheet_13
+  - first:
+      213: 8977714565976173777
+    second: GT_Enemy-Paperball-Animations-Sheet_14
+  - first:
+      213: 3665893179239270351
+    second: GT_Enemy-Paperball-Animations-Sheet_15
+  - first:
+      213: 1470598525307582889
+    second: GT_Enemy-Paperball-Animations-Sheet_16
+  - first:
+      213: -4282587896845842437
+    second: GT_Enemy-Paperball-Animations-Sheet_17
+  - first:
+      213: 3786079414115584690
+    second: GT_Enemy-Paperball-Animations-Sheet_18
+  - first:
+      213: 6694333733628627450
+    second: GT_Enemy-Paperball-Animations-Sheet_19
+  - first:
+      213: 2617257363487644341
+    second: GT_Enemy-Paperball-Animations-Sheet_20
+  - first:
+      213: -5507910557342434541
+    second: GT_Enemy-Paperball-Animations-Sheet_21
+  - first:
+      213: 2173012275096664922
+    second: GT_Enemy-Paperball-Animations-Sheet_22
+  - first:
+      213: 8570174961130709865
+    second: GT_Enemy-Paperball-Animations-Sheet_23
+  - first:
+      213: -225337807209201472
+    second: GT_Enemy-Paperball-Animations-Sheet_24
+  - first:
+      213: 251425770473830881
+    second: GT_Enemy-Paperball-Animations-Sheet_25
+  - first:
+      213: 6959044845098622643
+    second: GT_Enemy-Paperball-Animations-Sheet_26
+  - first:
+      213: 1601640142988854503
+    second: GT_Enemy-Paperball-Animations-Sheet_27
+  - first:
+      213: 5298547109830893282
+    second: GT_Enemy-Paperball-Animations-Sheet_28
+  - first:
+      213: -7878810738025096407
+    second: GT_Enemy-Paperball-Animations-Sheet_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 529
+        width: 34
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e22b0f8cc7c54c0800000000000000
+      internalID: -4297422741944783247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 529
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8a90cad88dbe4f0800000000000000
+      internalID: -798306405939828566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 529
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31ec047848b65f90800000000000000
+      internalID: -6965177152357736130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 529
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d057032a09b20d530800000000000000
+      internalID: 3877647179362366733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 529
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642460c99318688f0800000000000000
+      internalID: -538601020993420730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 481
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac38b4c7c4fe18530800000000000000
+      internalID: 3855625867787731914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 481
+        width: 25
+        height: 20
+      alignment: 9
+      pivot: {x: 0.52, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c6861b7a99c8c20800000000000000
+      internalID: 3210109579923319834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 481
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.23809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ae952a1d73f2990800000000000000
+      internalID: -7408641488489682305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 433
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78668e33b1687e070800000000000000
+      internalID: 8135618703261197959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 433
+        width: 27
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4130818efc844160800000000000000
+      internalID: 7008881944817578317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 436
+        width: 26
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5769231, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33d3e9a8ac30b4f0800000000000000
+      internalID: -815084837451607235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 385
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af1bb1ce094e14e0800000000000000
+      internalID: -2009088056032026714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 390
+        width: 23
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57a814833e36b580800000000000000
+      internalID: -8811787229923334306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 397
+        width: 37
+        height: 20
+      alignment: 9
+      pivot: {x: 0.6756757, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d9df11132c6d4c0800000000000000
+      internalID: -4263006481248576112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 337
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc2cdfe4df379c70800000000000000
+      internalID: 8977714565976173777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 343
+        width: 22
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7851d7c6edfd230800000000000000
+      internalID: 3665893179239270351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 352
+        width: 34
+        height: 24
+      alignment: 9
+      pivot: {x: 0.7058824, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9fb24319d986410800000000000000
+      internalID: 1470598525307582889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 289
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7cd197ff03194c0800000000000000
+      internalID: -4282587896845842437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 296
+        width: 22
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba47c9ea2bda8430800000000000000
+      internalID: 3786079414115584690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 293
+        width: 57
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4385965, y: 0.18604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af949d8001d07ec50800000000000000
+      internalID: 6694333733628627450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 241
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bad47c84bd525420800000000000000
+      internalID: 2617257363487644341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 245
+        width: 25
+        height: 25
+      alignment: 9
+      pivot: {x: 0.48, y: 0.35999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bfafeb788ff83b0800000000000000
+      internalID: -5507910557342434541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 240
+        width: 41
+        height: 38
+      alignment: 9
+      pivot: {x: 0.1707317, y: 0.4473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b33bda627182e10800000000000000
+      internalID: 2173012275096664922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 193
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963a42d68b06fe670800000000000000
+      internalID: 8570174961130709865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 196
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c084de45707fdcf0800000000000000
+      internalID: -225337807209201472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 38
+        height: 27
+      alignment: 9
+      pivot: {x: 0.34210527, y: 0.7407408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9b878f76e3d7300800000000000000
+      internalID: 251425770473830881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 144
+        width: 29
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.5769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bedd108a6e739060800000000000000
+      internalID: 6959044845098622643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 98
+        width: 25
+        height: 22
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e44bd4693b2a3610800000000000000
+      internalID: 1601640142988854503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 50
+        width: 25
+        height: 23
+      alignment: 9
+      pivot: {x: 0.52, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee94230688388940800000000000000
+      internalID: 5298547109830893282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy-Paperball-Animations-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 25
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b1b73a067d8a290800000000000000
+      internalID: -7878810738025096407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

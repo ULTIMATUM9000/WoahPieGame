@@ -1,0 +1,744 @@
+fileFormatVersion: 2
+guid: c9c6c6f435625f94589e31600e6b30ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6679501422703554709
+    second: GT_Enemy_Tire-Animations-Sheet_0
+  - first:
+      213: -6445629657280069628
+    second: GT_Enemy_Tire-Animations-Sheet_1
+  - first:
+      213: 8247183455397797743
+    second: GT_Enemy_Tire-Animations-Sheet_2
+  - first:
+      213: -7123099066610282228
+    second: GT_Enemy_Tire-Animations-Sheet_3
+  - first:
+      213: -3537765360423873547
+    second: GT_Enemy_Tire-Animations-Sheet_4
+  - first:
+      213: -671029191560637629
+    second: GT_Enemy_Tire-Animations-Sheet_5
+  - first:
+      213: 7031951536229687423
+    second: GT_Enemy_Tire-Animations-Sheet_6
+  - first:
+      213: -7594228495964804522
+    second: GT_Enemy_Tire-Animations-Sheet_7
+  - first:
+      213: 612819857588218977
+    second: GT_Enemy_Tire-Animations-Sheet_8
+  - first:
+      213: -2869396418864664167
+    second: GT_Enemy_Tire-Animations-Sheet_9
+  - first:
+      213: 3187919677394712285
+    second: GT_Enemy_Tire-Animations-Sheet_10
+  - first:
+      213: -8890370031665386698
+    second: GT_Enemy_Tire-Animations-Sheet_11
+  - first:
+      213: 3829534985790626255
+    second: GT_Enemy_Tire-Animations-Sheet_12
+  - first:
+      213: -8219593247221750829
+    second: GT_Enemy_Tire-Animations-Sheet_13
+  - first:
+      213: -6961819614114349998
+    second: GT_Enemy_Tire-Animations-Sheet_14
+  - first:
+      213: 509157640751371635
+    second: GT_Enemy_Tire-Animations-Sheet_15
+  - first:
+      213: 6899173718155440510
+    second: GT_Enemy_Tire-Animations-Sheet_16
+  - first:
+      213: 1489723713066140942
+    second: GT_Enemy_Tire-Animations-Sheet_17
+  - first:
+      213: -4155785798144347311
+    second: GT_Enemy_Tire-Animations-Sheet_18
+  - first:
+      213: 5480331483553133462
+    second: GT_Enemy_Tire-Animations-Sheet_19
+  - first:
+      213: 5165241282218565901
+    second: GT_Enemy_Tire-Animations-Sheet_20
+  - first:
+      213: -9126221740195033309
+    second: GT_Enemy_Tire-Animations-Sheet_21
+  - first:
+      213: -3551950338007539801
+    second: GT_Enemy_Tire-Animations-Sheet_22
+  - first:
+      213: 744220640297558376
+    second: GT_Enemy_Tire-Animations-Sheet_23
+  - first:
+      213: -7681001555404602909
+    second: GT_Enemy_Tire-Animations-Sheet_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 22
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59036f8872b52bc50800000000000000
+      internalID: 6679501422703554709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 442
+        width: 28
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40049142af58c86a0800000000000000
+      internalID: -6445629657280069628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 442
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fd67048a1e37270800000000000000
+      internalID: 8247183455397797743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 442
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0117c2832ba52d90800000000000000
+      internalID: -7123099066610282228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 402
+        width: 26
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3d049062557eec0800000000000000
+      internalID: -3537765360423873547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 402
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.2972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3435c1b618600b6f0800000000000000
+      internalID: -671029191560637629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 402
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70abb25aa2869160800000000000000
+      internalID: 7031951536229687423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 362
+        width: 24
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a6eda3b61eb9690800000000000000
+      internalID: -7594228495964804522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 366
+        width: 28
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ce9d2e96c218800800000000000000
+      internalID: 612819857588218977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 362
+        width: 33
+        height: 30
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9913bc5e82bdd28d0800000000000000
+      internalID: -2869396418864664167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 322
+        width: 21
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6f6976e04cd3c20800000000000000
+      internalID: 3187919677394712285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 326
+        width: 28
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.2647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b6ec43f8f0f9480800000000000000
+      internalID: -8890370031665386698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 322
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc91bf2a7cd352530800000000000000
+      internalID: 3829534985790626255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 282
+        width: 25
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3e52dad732eed80800000000000000
+      internalID: -8219593247221750829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 285
+        width: 28
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cfd5e32f5a26f90800000000000000
+      internalID: -6961819614114349998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 282
+        width: 33
+        height: 32
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.46875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37559a73d24e01700800000000000000
+      internalID: 509157640751371635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 242
+        width: 26
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71bd5a71f9cebf50800000000000000
+      internalID: 6899173718155440510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 242
+        width: 35
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0588caf2df8ca410800000000000000
+      internalID: 1489723713066140942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 242
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.375, y: 0.46875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1533efab5dea356c0800000000000000
+      internalID: -4155785798144347311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 201
+        width: 35
+        height: 39
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.43589744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693f290c27c0e0c40800000000000000
+      internalID: 5480331483553133462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 161
+        width: 31
+        height: 37
+      alignment: 9
+      pivot: {x: 0.7096774, y: 0.4054054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0122dd549f9ea740800000000000000
+      internalID: 5165241282218565901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 119
+        width: 35
+        height: 40
+      alignment: 9
+      pivot: {x: 0.62857145, y: 0.45000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f4a3a1ea5295180800000000000000
+      internalID: -9126221740195033309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 80
+        width: 35
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.47222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af5b339cffe4bec0800000000000000
+      internalID: -3551950338007539801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 43
+        width: 28
+        height: 34
+      alignment: 9
+      pivot: {x: 0.42857146, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8612373bab0045a00800000000000000
+      internalID: 744220640297558376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GT_Enemy_Tire-Animations-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2
+        width: 28
+        height: 34
+      alignment: 9
+      pivot: {x: 0.46428573, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1c2e2f7c9976590800000000000000
+      internalID: -7681001555404602909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
